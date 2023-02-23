@@ -14,4 +14,4 @@ _G.Text3 = "Checking Scripts..."
 
 _G.Text4 = "Starting Scripts..."
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/N0oahThegoat/hope/blob/main/Psxscript.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/N0oahThegoat/hope/main/Psxscript.lua"))()
